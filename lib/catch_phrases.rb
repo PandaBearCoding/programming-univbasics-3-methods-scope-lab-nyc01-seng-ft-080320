@@ -14,7 +14,7 @@ def link
 end
 
 def all_phrases
-  all_phrases = mario(phrase) + toadstool(status) + link(new_phrase)
+  all_phrases = "#{mario} + #{toadstool} + #{link}"
   puts all_phrases
 end
   
