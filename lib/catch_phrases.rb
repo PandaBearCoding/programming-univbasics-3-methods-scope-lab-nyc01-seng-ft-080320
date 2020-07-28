@@ -1,13 +1,13 @@
 # In the Mario Method, we must define the variable called phrase
 
 
-def mario
+def mario(phrase)
   #status = "Thank You Mario! But Our Princess Is In Another Castle!"
   phrase = "It's-a-me, Mario!"
-  puts "#{phrase}"
+  puts phrase
 end
 
-def toadstool
+def toadstool(status)
   status = "Thank You Mario! But Our Princess Is In Another Castle!"
-  puts "#{status}"
+  puts status
 end
