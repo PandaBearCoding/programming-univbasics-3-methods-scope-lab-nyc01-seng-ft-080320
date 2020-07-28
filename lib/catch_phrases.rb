@@ -8,6 +8,3 @@ def mario
 end
 
 
-def toadstool
-  puts status
-end
